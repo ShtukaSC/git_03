@@ -1,1 +1,1 @@
-Hello,this is test
+This script is a test For Git
